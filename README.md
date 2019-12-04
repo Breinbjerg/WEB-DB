@@ -4,7 +4,7 @@ https://github.com/Breinbjerg/WEB-DB/workflows/dockerimage.yml/badge.svg
 
 This is a github example demostrating using `docker-compose` and  `github actions` 
 
-This was a part on an assigment for the course software engineering on *Aarhus University, Electronics engineer*  
+This was part of an assigment for the course software engineering on *Aarhus University, Electronics engineer*  
 
 ## Get started 
 

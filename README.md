@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Breinbjerg/WEB-DB"><img alt="GitHub Actions status" src="https://github.com/Breinbjerg/WEB-DB/workflows/dockerimage/badge.svg"></a>
-</p>
 
 # Docker compose example 
 

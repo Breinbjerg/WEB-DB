@@ -1,4 +1,6 @@
-https://github.com/Breinbjerg/WEB-DB/workflows/dockerimage.yml/badge.svg
+<p align="center">
+  <a href="https://github.com/actions/toolkit"><img alt="GitHub Actions status" src="https://github.com/actions/toolkit/workflows/dockerimage/badge.svg"></a>
+</p>
 
 # Docker compose example 
 
